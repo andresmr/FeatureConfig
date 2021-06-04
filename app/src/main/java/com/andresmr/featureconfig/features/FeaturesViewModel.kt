@@ -20,6 +20,5 @@ class FeaturesViewModel : ViewModel() {
     }
 
     fun onItemSelected(item: FeatureItem) {
-
     }
 }
